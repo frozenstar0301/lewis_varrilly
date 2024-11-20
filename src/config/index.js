@@ -13,7 +13,7 @@ module.exports = {
     },
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/lewis-varrilly-489786308/",
+      url: "https://www.linkedin.com/in/lewis-varrilly/",
     },
   ],
 
